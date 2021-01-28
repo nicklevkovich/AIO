@@ -4,7 +4,7 @@
   "description": "All-In-One social networks messenger",
   "main": "src/electron-starter.js",
   "devDependencies": {
-    "electron": "^2.0.1",
+    "electron": "^9.4.0",
     "foreman": "^2.0.0",
     "react-scripts": "^1.0.14"
   },
